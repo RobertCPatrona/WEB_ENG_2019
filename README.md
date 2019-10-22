@@ -8,7 +8,7 @@ The project is composed of a Flask server, implementing the back-end API, and a 
 
 This requires Python 3. To install, run:
 
-**sudo apt-get update**
+### `sudo apt-get update`
 
 **sudo apt-get install python3.6**
 
