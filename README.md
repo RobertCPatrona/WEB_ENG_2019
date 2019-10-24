@@ -15,9 +15,16 @@ export FLASK_ENV=development
 FLASK_APP=app.py flask run
 ```
 
-
 #### Run React Server
-Navgate to the `Front_End` folder. Type the following command:
+
+First navgate to the `Front_End` folder and install the required modules using the command:
+```
+npm install
+```
+The required node modules are included in the package.json file.
+
+
+To run the server, type the following command:
 ```
 npm start
 ```
