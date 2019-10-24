@@ -14,6 +14,7 @@ Navigate to the `Back_End` folder. Type the following commands:
 export FLASK_ENV=development
 FLASK_APP=app.py flask run
 ```
+A more comprehensive guide on using the Flask web-framework can be found [here](https://github.com/pallets/flask/blob/master/README.rst)
 
 #### Run React Server
 
@@ -29,5 +30,4 @@ To run the server, type the following command:
 npm start
 ```
 
-A more comprehensive guide to using React can be found at the link here:
-https://github.com/facebook/react/blob/master/README.md
+A more comprehensive guide on using React library can be found [here](https://github.com/facebook/react/blob/master/README.md)
