@@ -35,6 +35,6 @@ npm start
 
 If the browser gives the error `Failed to load resource: the server responded with a status 404 (NOT FOUND)`, switch to Firefox since this error is due to the browser's security measures. 
 
-Moreover, make sure to `disable caching` on the browser, to prevent React from returning cahched JSON response. 
+Moreover, make sure to `disable caching` on the browser, to prevent React from returning cached JSON response. 
 
 A more comprehensive guide on using React library can be found [here](https://github.com/facebook/react/blob/master/README.md)
