@@ -2,6 +2,7 @@
 Repository for Web Engineering project.
 The project is composed of a Flask server, implementing the back-end API, and a ReactJS server, implementing the front end logic.
 
+It is required to use Mozzila Firefox as the browser, since Chrome 
 
 #### Run Flask Server
 This requires Python 3. To install, run:
@@ -29,5 +30,9 @@ To run the server, type the following command:
 ```
 npm start
 ```
+
+If the browser gives the error `Failed to load resource: the server responded with a status 404 (NOT FOUND)`, switch to Firefox since this error is due to the browser's security measures. 
+
+Moreover, make sure to `disable caching` on the browser.
 
 A more comprehensive guide on using React library can be found [here](https://github.com/facebook/react/blob/master/README.md)
