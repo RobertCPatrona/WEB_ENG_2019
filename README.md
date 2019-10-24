@@ -28,3 +28,6 @@ To run the server, type the following command:
 ```
 npm start
 ```
+
+A more comprehensive guide to using React can be found at the link here:
+https://github.com/facebook/react/blob/master/README.md
