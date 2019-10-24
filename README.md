@@ -21,7 +21,7 @@ First navgate to the `Front_End` folder and install the required modules using t
 ```
 npm install
 ```
-The required node modules are included in the package.json file.
+The required node modules are included in the `package.json` file.
 
 
 To run the server, type the following command:
