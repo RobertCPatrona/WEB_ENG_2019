@@ -2,8 +2,6 @@
 Repository for Web Engineering project.
 The project is composed of a Flask server, implementing the back-end API, and a ReactJS server, implementing the front end logic.
 
-It is required to use Mozzila Firefox as the browser, since Chrome 
-
 #### Run Flask Server
 This requires Python 3. To install, run:
 ```
